@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Photos examples]</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="sitio_da_trindade_image_description"> cottage with coconut trees</string>
+    <string name="sitio_da_trindade">Sítio da Tridade</string>
+    <string name="sitio_da_tridade_description">Historic site in Casa Amarela neighborhood with a huge chalet</string>
+
+    <string name="linha_do_tiro">Linha do tiro</string>
+    <string name="linha_do_tiro_image_description">black woman on a staircase, around several simple houses</string>
+    <string name="linha_do_tiro_description">Place where I born, where I play with my friends, and I ride in my bike</string>
+
+    <string name="parque_da_jaqueira">Parque da Jaqueira</string>
+    <string name="parque_da_jaqueira_image_image_description">Some street with beautiful trees in bloom</string>
+    <string name="parque_da_jaqueira_description">
+        The parque da jaqueira is a beutiful park with a lot of natural plants, and places for the people practice sports</string>
+
+    <string name="orla_de_boa_viagem">Orla de boa viagem</string>
+    <string name="orla_de_boa_viagem_image_description"> two people walk in some street along the beach</string>
+    <string name="orla_de_boa_viagem_description">The Orla de Boa Viagem is a street in the side of some of the most beautiful beach in Brazil</string>
+</resources>
